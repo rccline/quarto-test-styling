@@ -1,0 +1,40 @@
+---
+title: "quarto-test-styling"
+format: html
+theme: 
+  - styles.scss
+#  - minimal_theme.scss
+---
+
+## [Quarto - Styling & Templating](https://www.youtube.com/watch?v=CblUFMoC9yg&t=10s)
+
+Presentation by Emil Hvitfeldt <https://github.com/EmilHvitfeldt/quarto-nes-theme>
+
+## [Slidecraft 101: Colors and Fonts](https://emilhvitfeldt.com/post/slidecraft-colors-fonts/)
+All about colors and fonts in slidecrafting  
+
+## [Slidecraft 101: Layout](https://emilhvitfeldt.com/post/slidecraft-layout/)
+
+## [Slidecraft 101: 7 Tips and Tricks](https://emilhvitfeldt.com/post/slidecraft-7-tips-and-tricks/)  
+* Highlight incremental slides  
+* Style menu button  
+* Hiding slides  
+* Hand-styled code chunks  
+* Absolute position everything   ss
+* Showing quarto code  
+* Avoid duplication using Includes  
+
+## [Slidecraft 101: Advanced slide themes](https://emilhvitfeldt.com/post/slidecraft-scss-themes/)
+* What is a slide theme?  
+* How to create your own  
+* More Examples  
+
+## [Slidecraft 101: theme variants](https://emilhvitfeldt.com/post/slidecraft-theme-variants/)  
+* What is a variant?  
+  - similar theme variants that are used to denote theory/practice, idea/execution, pros/cons.
+* The SCSS basics 
+  - denote each slide as a class with the following syntax
+  - Mark slides that have each theme variant
+  - include css/scss to style each theme  
+  
+
